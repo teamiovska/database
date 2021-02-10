@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "",
+      "surname": "",
+      "password": "",
+      "phone": "",
+      "email": "",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "name": "",
+      "surname": "",
+      "password": "",
+      "phone": "",
+      "email": "",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "",
+      "surname": "",
+      "password": "",
+      "phone": "",
+      "email": "",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "name": "",
+      "surname": "",
+      "password": "",
+      "phone": "",
+      "email": "",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "name": "",
+      "surname": "",
+      "password": "",
+      "phone": "",
+      "email": "",
+      "image": ""
+    }
+  ]
+}
